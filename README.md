@@ -1,4 +1,6 @@
-### This repository holds the meeting notes for the Cyber Security Club
+# Meeting Notes for the UWF CyberNauts
+
+This repository holds the meeting notes for the UWF Cyber Security Club
 
 #### The format for this repository is:
 Meeting notes are written in the common MarkDown markup format.
